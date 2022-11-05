@@ -29,6 +29,7 @@ REACTJS
 
 # Project Link:
 - project video : https://drive.google.com/file/d/1EsXO57i2RWrwUBSMGm036mx0K4Jxp021/view?usp=sharing;
+- frontend repo : https://github.com/81Rishabh/fyman-board-ui
 
 # Getting Started with Create React App
 
